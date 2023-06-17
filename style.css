@@ -1,0 +1,13 @@
+.navbar-inversemy_nav_bar{
+    background-color: rgba(2, 192, 250, 0.582);
+}
+
+body{
+    background-color: white;
+}
+
+.img {
+    width: 1000px;
+    border-style: dashed;
+    border-width: 3px;
+}
